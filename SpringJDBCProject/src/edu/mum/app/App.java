@@ -31,6 +31,7 @@ public class App {
 		System.out.println("Total Number of Circle: "+dao.circleCount());
 		//HibernateDaoImpl hibDao = context.getBean("hibernateDaoImpl",HibernateDaoImpl.class);
 		//System.out.println("Hibernate Count: "+hibDao.circleCount());
+		//Comment
 
 	}
 
